@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView_KaterinaBulygina</string>
+    <string name="title_ar">Флаг Аргентины</string>
+    <string name="title_br">Флаг Бразилии</string>
+    <string name="title_cl">Флаг Чили</string>
+    <string name="title_co">Флаг Колумбии</string>
+</resources>
